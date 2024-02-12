@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "report": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.4",
+    "cypress-multi-reporters": "^1.6.4",
+    "typescript": "^5.3.3"
+  }
+}
