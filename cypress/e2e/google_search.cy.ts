@@ -1,4 +1,4 @@
-import { GoogleApi } from "./IGoogleResponse";
+import { GoogleApi } from "./intefaces/IGoogleResponse";
 import { BeforeGoogleSearchPage } from "./page-objects/before_Google_Search";
 import { GoogleSearchPage } from "./page-objects/google_Search";
 import { ResultsPage } from "./page-objects/results.cy";
